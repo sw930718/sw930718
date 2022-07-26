@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=About%20Me&height=270&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&text=About%20Me&height=200&fontColor=ffffff)
 
 <p align="center">
   𝐇𝐢! 𝐈’𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠       
