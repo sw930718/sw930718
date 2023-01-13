@@ -24,8 +24,7 @@
 <h3 align="center">☁️ Github Stats ☁️</h3>
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw930718&count_private=true&show_icons=true&theme=buefy
-)](https://github.com/sw930718/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw930718&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
   
   
